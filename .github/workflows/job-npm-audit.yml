@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.1.7
 
-      - uses: ahmadnassri/action-dotenv@v1.0.3
+      - uses: khulnasoft-lab/action-dotenv@master
 
       - uses: actions/setup-node@v4.0.2
         with:
