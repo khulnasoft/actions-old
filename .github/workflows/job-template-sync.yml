@@ -1,6 +1,7 @@
 name: template-sync
 
 on:
+  workflow_dispatch:
   workflow_call:
     secrets:
       TOKEN_GITHUB:
