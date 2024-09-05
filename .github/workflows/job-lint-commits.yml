@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4.1.7
 
-      - uses: khulnasoft-lab/action-commit-lint@main
+      - uses: ghcr.io/khulnasoft-lab/action-commit-lint@2.1.17
         with:
           config: .github/linters/.commit-lint.yml
