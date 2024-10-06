@@ -1,6 +1,6 @@
 ## Description
 
-Generate Nuclei Templates Database Indexer
+Generate KhulnaSoft Templates Database Indexer
 
 ## Inputs
 
