@@ -3,7 +3,7 @@ name: setup-kind
 on:
   pull_request:
     branches:
-      - main
+      - checkout
 
 defaults:
   run:
