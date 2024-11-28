@@ -6,7 +6,7 @@ name: Action Lint
 on:
   pull_request:
     branches:
-      - 'main'
+      - 'checkout'
 
 jobs:
 
